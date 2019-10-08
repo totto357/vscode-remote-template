@@ -4,8 +4,8 @@
   "appPort": 3000,
   // Improving container disk performance for Docker for Mac
   // https://code.visualstudio.com/docs/remote/containers-advanced#_improving-container-disk-performance
-  "workspaceMount": "src=/PATH/TO/REPOSITORY,dst=/workspace,type=bind,consistency=cached",
-  "workspaceFolder": "/workspace",
+  // "workspaceMount": "src=/PATH/TO/REPOSITORY,dst=/workspace,type=bind,consistency=cached",
+  // "workspaceFolder": "/workspace",
   "extensions": [
     "shardulm94.trailing-spaces",
     "wmaurer.change-case",
